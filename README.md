@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi! 👋 I'm Nathach Bunamornsiri (Pek)
 
-<!--
-**voximir-p/voximir-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Based in **Thailand**
 
-Here are some ideas to get you started:
+🌐 Website: https://www.voximir.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🔧 I like building **developer tools and utilities**
+- ⚡ Interested in **performance, systems programming, and build tooling**
+- 🦀 Love writing **Rust**
+- 🌐 Also build **web apps with Next.js + Tailwind**
+- 🧪 Curious about **cryptography, security, and computer architectures**
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+### Web
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+
+### Tooling
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+# 🧩 Things I Like Working On
+
+⚙️ CLI tools  
+⚡ Fast software  
+🔬 Build systems  
+🧠 Algorithms & problem solving  
+🛠 Developer productivity tools  
+🌐 Clean modern UI  
+
+---
+
+# 📊 GitHub Stats
+
+<a href="https://github.com/voximir-p">
+<img src="https://github-readme-stats.vercel.app/api?username=voximir-p&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+<a href="https://github.com/voximir-p">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voximir-p&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
+</a>
+
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=voximir-p&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Contact
+
+🌐 Website  
+https://www.voximir.com
+
+💬 Feel free to open an issue or reach out!
+
+---
+
+Sometimes the hardest bug is just running the wrong file and not realizing it 😭✌️🥀
