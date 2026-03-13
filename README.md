@@ -53,17 +53,29 @@
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/voximir-p">
-<img src="https://github-readme-stats.vercel.app/api?username=voximir-p&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+<table>
+<tr>
+<td valign="top">
 
 <a href="https://github.com/voximir-p">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voximir-p&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voximir-p&langs_count=10&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&locale=en&hide_border=true" />
 </a>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=voximir-p&theme=dark&hide_border=true"/>
-</p>
+</td>
+
+<td valign="top">
+
+<a href="https://github.com/voximir-p">
+<img src="https://github-readme-stats.vercel.app/api?username=voximir-p&show_icons=true&count_private=true&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+</a>
+
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=voximir-p&theme=github-dark-blue&hide_border=true" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
