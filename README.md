@@ -2,7 +2,7 @@
 
 🌏 Based in **Thailand**
 
-🌐 Website: https://www.voximir.com
+🌐 Website: https://www.voximir.org
 
 ---
 
@@ -82,7 +82,7 @@
 # 📫 Contact
 
 🌐 Website  
-https://www.voximir.com
+https://www.voximir.org
 
 💬 Feel free to open an issue or reach out!
 
