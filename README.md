@@ -1,24 +1,18 @@
-# Hi! 👋 I'm Nathach Bunamornsiri (Pek)
+# Hi! (˵ •̀ ᴗ - ˵ )  I'm Nathach Bunamornsiri (Pek)
 
-🌏 Based in **Thailand**
+# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-🌐 Website: https://www.voximir.org
+🌏︎ I'm from **Thailand**, Nakhon Si Thammarat.
 
----
+- ⛏ I **love** building **developer tools and utilities**
+- 🗲 Interested in **performance, systems programming, and build tooling**
+- 𖢥 Love writing **Rust**
+- 🌐︎ Also build **web apps with Next.js + Tailwind**
+- ¿? Curious about **cryptography, security, and computer architectures**
 
-# 🚀 About Me
+# ☰ Tech Stack
 
-- 🔧 I like building **developer tools and utilities**
-- ⚡ Interested in **performance, systems programming, and build tooling**
-- 🦀 Love writing **Rust**
-- 🌐 Also build **web apps with Next.js + Tailwind**
-- 🧪 Curious about **cryptography, security, and computer architectures**
-
----
-
-# 🧰 Tech Stack
-
-### Languages
+### </> Languages
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
@@ -27,12 +21,12 @@
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
-### Web
+### 🌐︎ Web
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 
-### Tooling
+### ⛏ Tooling
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -88,4 +82,4 @@ https://www.voximir.org
 
 ---
 
-Sometimes the hardest bug is just running the wrong file and not realizing it 😭✌️🥀
+"*The stupidest mistake is running the wrong file and not realizing it.*" - me
